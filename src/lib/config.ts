@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Fiordifarina",
+  category: "bakery",
   tagline: "Ogni morso una dolcezza, ogni giorno una novità.",
   city: "Milano",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Lepontina, 13, 20159 Milano MI",
   phone: "+39 346 231 1347",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Lepontina%2C%2013%2C%2020159%20Milano%20MI",
